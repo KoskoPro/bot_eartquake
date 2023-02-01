@@ -1,8 +1,7 @@
-Dockerrun.aws.json
 {
   "AWSEBDockerrunVersion": "1",
   "Image": {
-    "Name": "koskopro/app-app_bot",
+    "Name": "<docker_hub_username>/my_app",
     "Update": "true"
   },
   "Ports": [
